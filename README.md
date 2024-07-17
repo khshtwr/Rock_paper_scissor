@@ -1,4 +1,3 @@
-Rock Paper Scissors Game
 Welcome to the Rock Paper Scissors Game, implemented in Python using randomization, Python lists, and nested lists for enhanced gameplay! 🪨📄✂️
 
 Project Overview:
